@@ -1,6 +1,5 @@
 appName: devopsweb
 replicas: 1
-
 image:
   name: haquenafeem/devopsweb
-  tag: 1db63941fa6495a2d17ac4ac9e081028f40b7ec0
+  tag: 86985083ff31d045d5d0eaa6b32d1eaf853fa713
